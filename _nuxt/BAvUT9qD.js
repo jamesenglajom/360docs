@@ -1,0 +1,1 @@
+import{n as o,o as t,c as n,a as e}from"./BxBD7CcC.js";const s={class:"page"},a=e("h1",null,"Setup 360app in your Local Machine",-1),c=e("p",null,[e("i",null,"Nothing here yet...")],-1),_=[a,c],d=o({__name:"index",setup(i){return(l,p)=>(t(),n("div",s,_))}});export{d as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as t,a as o}from"./BxBD7CcC.js";const _={},c={id:"main-navbar"},s=o("div",null,"360app",-1),a=o("div",null,"Documentation",-1),i=[s,a];function r(d,l){return n(),t("div",c,i)}const p=e(_,[["render",r]]);export{p as _};

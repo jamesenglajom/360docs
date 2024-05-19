@@ -1,0 +1,1 @@
+import{n as o,o as t,c as n,a as e}from"./BxBD7CcC.js";const s={class:"page"},a=e("h1",null,"Sandbox",-1),_=e("p",null,[e("i",null,"Nothing here yet...")],-1),c=[a,_],p=o({__name:"index",setup(i){return(l,r)=>(t(),n("div",s,c))}});export{p as default};
